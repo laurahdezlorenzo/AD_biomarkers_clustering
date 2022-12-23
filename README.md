@@ -3,7 +3,7 @@
 
 ## Description
 
-This is the code repository for the paper entitled [A data-driven approach to complement the A/T/(N) classification system using CSF biomarkers](https://www.nature.com/articles/s41598-022-21491-y#article-info). The repository follows the methodology and results presented in the abovementioned work. 
+This is the code repository for the paper entitled [A data-driven approach to complement the A/T/(N) classification system using CSF biomarkers](). The repository follows the methodology and results presented in the abovementioned work. 
 
 The Python scripts present in this repository are organized as follows:
 
